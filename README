@@ -1,0 +1,7 @@
+//To compile the program using linux 
+
+g++ -o example example.cpp
+
+// to run the compile code
+
+./example
