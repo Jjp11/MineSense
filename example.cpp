@@ -18,6 +18,7 @@ class CSensor
 	{
 		//Assuming predefined code for reading data for sensor here;
 		cout<< "Reading sensor data ..."<<endl;
+//abcde...
 	}
 	//This function calculates average value of given sensor data....
 	 float GetAvg(int val[],int size)
